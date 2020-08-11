@@ -1,0 +1,8 @@
+{
+  "name": "c-chat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "cf07c102"
+}
